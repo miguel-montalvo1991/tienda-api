@@ -1,0 +1,6 @@
+# Entorno virtual: es pesado y cada persona crea el suyo, no se sube
+venv/
+
+# Archivos temporales que Python genera solo
+__pycache__/
+*.pyc
